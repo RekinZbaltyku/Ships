@@ -1,0 +1,17 @@
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.csproj.AssemblyReference.cache
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.Form1.resources
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.csproj.GenerateResource.cache
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.AssemblyInfoInputs.cache
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.AssemblyInfo.cs
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.csproj.CoreCompileInputs.cache
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\bin\Debug\net6.0-windows\Ships.exe
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\bin\Debug\net6.0-windows\Ships.deps.json
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\bin\Debug\net6.0-windows\Ships.runtimeconfig.json
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\bin\Debug\net6.0-windows\Ships.dll
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\bin\Debug\net6.0-windows\Ships.pdb
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.dll
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\refint\Ships.dll
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.pdb
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\Ships.genruntimeconfig.cache
+C:\Users\leon.tarchalski\source\repos\Ships\Ships\obj\Debug\net6.0-windows\ref\Ships.dll
